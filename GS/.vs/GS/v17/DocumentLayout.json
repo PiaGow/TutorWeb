@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Web\\DAA\\GS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\requiredscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\requiredscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\timecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\timecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\gsvietcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\gsvietcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timetable.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Timetable.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timetable.cs",
+              "RelativeToolTip": "GS\\Models\\Timetable.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:34:31.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timecourse.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timecourse.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Timecourse.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timecourse.cs",
+              "RelativeToolTip": "GS\\Models\\Timecourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:32:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Requiredscore.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Requiredscore.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Requiredscore.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Requiredscore.cs",
+              "RelativeToolTip": "GS\\Models\\Requiredscore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:32:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Contract.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Contract.cs",
+              "RelativeToolTip": "GS\\Models\\Contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:31:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Subject.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Subject.cs",
+              "RelativeToolTip": "GS\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:31:19.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Course.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Course.cs",
+              "RelativeToolTip": "GS\\Models\\Course.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvyUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:24:18.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Homework.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Homework.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Homework.cs",
+              "RelativeToolTip": "GS\\Models\\Homework.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:30:02.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GsvietContext.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\GsvietContext.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\GsvietContext.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\GsvietContext.cs",
+              "RelativeToolTip": "GS\\Models\\GsvietContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:20:31.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Account.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Account.cs",
+              "RelativeToolTip": "GS\\Models\\Account.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:28:50.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Customer.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Customer.cs",
+              "RelativeToolTip": "GS\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:28:41.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Program.cs",
+              "RelativeDocumentMoniker": "GS\\Program.cs",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Program.cs",
+              "RelativeToolTip": "GS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:03:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\appsettings.json",
+              "RelativeDocumentMoniker": "GS\\appsettings.json",
+              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\appsettings.json",
+              "RelativeToolTip": "GS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T04:02:00.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
