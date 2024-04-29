@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Contract
 {
-    public int Idct { get; set; }
+    [Key]
+    public int Id { get; set; }
 
-    public string? Namect { get; set; }
+    public string? Namt { get; set; }
 
     public string? Contentcontract { get; set; }
 

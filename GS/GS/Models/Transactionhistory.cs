@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Transactionhistory
 {
-    public int Idth { get; set; }
+    [Key]
+    public int Id { get; set; }
 
     public string? Sender { get; set; }
 

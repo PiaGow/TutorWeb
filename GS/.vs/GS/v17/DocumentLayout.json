@@ -1,54 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\Web\\DAA\\GS\\",
+  "WorkspaceRootPath": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\requiredscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\requiredscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\timecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\timecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\gsvietcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\gsvietcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\servicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\servicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\requiredscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\requiredscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\detailtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\detailtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\assess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\assess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\models\\timecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\models\\timecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\study\\web\\daa\\gs\\gs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|d:\\hoc\\ltweb\\tutorweb\\gs\\gs\\data\\migrations\\20240423161910_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30092522-3043-4C82-9CFF-AC2B7D2E3C8E}|GS\\GS.csproj|solutionrelative:gs\\data\\migrations\\20240423161910_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,53 +118,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Timetable.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timetable.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\Timetable.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timetable.cs",
-              "RelativeToolTip": "GS\\Models\\Timetable.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:34:31.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Timecourse.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timecourse.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\Timecourse.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Timecourse.cs",
-              "RelativeToolTip": "GS\\Models\\Timecourse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:32:06.835Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -113,132 +135,327 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Requiredscore.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Requiredscore.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\Requiredscore.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Requiredscore.cs",
-              "RelativeToolTip": "GS\\Models\\Requiredscore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "GS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "GS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAHEAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:32:01.699Z",
+              "WhenOpened": "2024-04-24T00:22:40.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contract.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Contract.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\Contract.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Contract.cs",
-              "RelativeToolTip": "GS\\Models\\Contract.cs",
+              "DocumentIndex": 26,
+              "Title": "20240423161910_v1.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Data\\Migrations\\20240423161910_v1.cs",
+              "RelativeDocumentMoniker": "GS\\Data\\Migrations\\20240423161910_v1.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Data\\Migrations\\20240423161910_v1.cs",
+              "RelativeToolTip": "GS\\Data\\Migrations\\20240423161910_v1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:31:44.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:19:10.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transactionhistory.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Transactionhistory.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Transactionhistory.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Transactionhistory.cs",
+              "RelativeToolTip": "GS\\Models\\Transactionhistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:18:22.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Studentlist.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Studentlist.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Studentlist.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Studentlist.cs",
+              "RelativeToolTip": "GS\\Models\\Studentlist.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:17:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servicer.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Servicer.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Servicer.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Servicer.cs",
+              "RelativeToolTip": "GS\\Models\\Servicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:17:45.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAvwHcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:25:32.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Revenue.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Revenue.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Revenue.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Revenue.cs",
+              "RelativeToolTip": "GS\\Models\\Revenue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:17:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Rating.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Rating.cs",
+              "RelativeToolTip": "GS\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:16:39.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Tutor.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Tutor.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Tutor.cs",
+              "RelativeToolTip": "GS\\Models\\Tutor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:13:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Contract.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Contract.cs",
+              "RelativeToolTip": "GS\\Models\\Contract.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:31:44.595Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Subject.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Subject.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "GS\\Models\\Subject.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Subject.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Subject.cs",
               "RelativeToolTip": "GS\\Models\\Subject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:31:19.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:31:19.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Bill.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Bill.cs",
+              "RelativeToolTip": "GS\\Models\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:15:26.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Course.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Course.cs",
               "RelativeDocumentMoniker": "GS\\Models\\Course.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Course.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Course.cs",
               "RelativeToolTip": "GS\\Models\\Course.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvyUAAAAnAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvwoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:24:18.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Homework.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Homework.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\Homework.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Homework.cs",
-              "RelativeToolTip": "GS\\Models\\Homework.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:30:02.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GsvietContext.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\GsvietContext.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\GsvietContext.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\GsvietContext.cs",
-              "RelativeToolTip": "GS\\Models\\GsvietContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:20:31.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\Account.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Account.cs",
-              "RelativeToolTip": "GS\\Models\\Account.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAwDkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:28:50.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "GS\\Models\\Customer.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Models\\Customer.cs",
-              "RelativeToolTip": "GS\\Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:28:41.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\Program.cs",
-              "RelativeDocumentMoniker": "GS\\Program.cs",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\Program.cs",
-              "RelativeToolTip": "GS\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:03:38.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:24:18.535Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DetailTimeTable.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\DetailTimeTable.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\DetailTimeTable.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\DetailTimeTable.cs",
+              "RelativeToolTip": "GS\\Models\\DetailTimeTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:09:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Requiredscore.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Requiredscore.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Requiredscore.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Requiredscore.cs",
+              "RelativeToolTip": "GS\\Models\\Requiredscore.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:32:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Assess.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Assess.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Assess.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Assess.cs",
+              "RelativeToolTip": "GS\\Models\\Assess.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:14:39.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Homework.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Homework.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Homework.cs",
+              "RelativeToolTip": "GS\\Models\\Homework.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:30:02.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Ad.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Ad.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Ad.cs",
+              "RelativeToolTip": "GS\\Models\\Ad.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:12:03.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Accounttype.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Accounttype.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Accounttype.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Accounttype.cs",
+              "RelativeToolTip": "GS\\Models\\Accounttype.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:11:37.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Account.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Account.cs",
+              "RelativeToolTip": "GS\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:28:50.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Customer.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Customer.cs",
+              "RelativeToolTip": "GS\\Models\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:28:41.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Timecourse.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Timecourse.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Timecourse.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Timecourse.cs",
+              "RelativeToolTip": "GS\\Models\\Timecourse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:32:06.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Timetable.cs",
+              "RelativeDocumentMoniker": "GS\\Models\\Timetable.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Models\\Timetable.cs",
+              "RelativeToolTip": "GS\\Models\\Timetable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:34:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "GS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T11:25:13.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Program.cs",
+              "RelativeDocumentMoniker": "GS\\Program.cs",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\Program.cs",
+              "RelativeToolTip": "GS\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:03:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Study\\Web\\DAA\\GS\\GS\\appsettings.json",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\appsettings.json",
               "RelativeDocumentMoniker": "GS\\appsettings.json",
-              "ToolTip": "D:\\Study\\Web\\DAA\\GS\\GS\\appsettings.json",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\appsettings.json",
               "RelativeToolTip": "GS\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T04:02:00.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:02:00.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "GS\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\HOC\\LTWeb\\TutorWeb\\GS\\GS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "GS\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-23T11:23:56.518Z"
             }
           ]
         },

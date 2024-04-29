@@ -5,9 +5,9 @@ namespace GS.Models;
 
 public partial class Customer
 {
-    public int Idcr { get; set; }
+    public int Id { get; set; }
 
-    public string? Namect { get; set; }
+    public string? Name { get; set; }
 
     public int? Phonenumber { get; set; }
 
@@ -17,9 +17,6 @@ public partial class Customer
 
     public string? IdcardImg { get; set; }
 
-    public virtual ICollection<Account> Accounts { get; set; } = new List<Account>();
-
-    public virtual ICollection<Studentlist> Studentlists { get; set; } = new List<Studentlist>();
-
-    public virtual ICollection<Timetable> Timetables { get; set; } = new List<Timetable>();
+    public int AccountId { get; set; }
+    public Account Account { get; set; }
 }

@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Servicer
 {
-    public int Idservice { get; set; }
+    [Key]
+    public int Id { get; set; }
 
     public string? Nameservice { get; set; }
 

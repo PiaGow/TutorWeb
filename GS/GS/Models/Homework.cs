@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Homework
 {
-    public int Idhk { get; set; }
+    [Key]
+    public int Id { get; set; }
     [DisplayName("Tên Bài Tập")]
     public string? Namehk { get; set; }
     [DisplayName("Trạng Thái Bài Tập")]

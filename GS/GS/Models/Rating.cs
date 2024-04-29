@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Rating
 {
-    public int Gradenumber { get; set; }
+    [Key]
+    public int Id{ get; set; }
 
     public int? Coursenumber { get; set; }
 

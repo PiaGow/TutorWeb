@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Accounttype
 {
-    public int Idtype { get; set; }
+    [Key]
+    public int Id { get; set; }
 
     public string? Position { get; set; }
 
-    public virtual ICollection<Account> Accounts { get; set; } = new List<Account>();
+   
 }

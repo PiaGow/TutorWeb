@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Bill
 {
-    public int Idbill { get; set; }
+    [Key]
+    public int Id{ get; set; }
 
     public string? Namebill { get; set; }
 

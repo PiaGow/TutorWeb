@@ -7,7 +7,8 @@ namespace GS.Models;
 
 public partial class Course
 {
-    public int Idce { get; set; }
+    [Key]
+    public int Id { get; set; }
     [Required, StringLength(100)]
     [DisplayName ("Ngày Bắt Đầu")]
     public DateTime? Starttime { get; set; }

@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Revenue
 {
-    public int Idre { get; set; }
+    [Key]
+    public int Id { get; set; }
 
     public double? Totalmoneyforthemonth { get; set; }
 

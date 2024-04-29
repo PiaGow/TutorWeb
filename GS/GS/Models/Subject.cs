@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Subject
 {
-    public int Idst { get; set; }
+    [Key]
+    public int Id { get; set; }
     [DisplayName("Tên Môn Học")]
     public string? Namest { get; set; }
 

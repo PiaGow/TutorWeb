@@ -1,15 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GS.Models;
 
 public partial class Ad
 {
-    public int Idad { get; set; }
+    [Key]
+    public int Id { get; set; }
 
-    public string? Namead { get; set; }
+    public string? Name { get; set; }
 
     public int? Phonenumberad { get; set; }
 
-    public virtual ICollection<Account> Accounts { get; set; } = new List<Account>();
+   public int AccountId { get; set; }
+    public Account Account { get; set; }
 }
